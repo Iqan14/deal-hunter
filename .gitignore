@@ -1,0 +1,5 @@
+.env
+deep_neural_network.pth
+products_vectorstore/
+__pycache__/
+agents/__pycache__/
